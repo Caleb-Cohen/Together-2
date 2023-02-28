@@ -28,7 +28,7 @@
 <div align="center">
   Group calendar for public events, so you can see 
   <br/>
-  what's going on in the 100Devs community!
+  what's going on in the 100Devs community!!
   <br/>
   <br/>
   <a href="https://github.com/Caleb-Cohen/Together/wiki">Project Wiki</a>
